@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Start Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <p id="quote"></p>
+        <script src="script.js" type="text/javascript"></script>
+
+             id: <input id="idOfQuote" type="number" name="id"><br>
+            New Quote: <input id="newQuote" type="text" name="newQuote"><br>
+            <input type="Button" id="addQuote" value="addQuote" onClick="onSubmit('addQuote')">
+            
+            <input type="Button" id="updateQuote" value="updateQuote" onClick="onSubmit('updateQuote')">
+            <input type="Button" id="deleteQuote" value="deleteQuote" onClick="onSubmit('deleteQuote')">
+            <button id="buttonRandom" onclick="fetchRandomQuote()">New Quote</button>
+        
+    </body>
+
+</html>

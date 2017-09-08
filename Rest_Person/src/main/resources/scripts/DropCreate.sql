@@ -1,0 +1,3 @@
+DROP DATABASE ExamPreparationJPQL;
+CREATE DATABASE ExamPreparationJPQL;
+

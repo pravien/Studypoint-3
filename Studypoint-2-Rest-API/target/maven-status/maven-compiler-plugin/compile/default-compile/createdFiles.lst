@@ -1,0 +1,12 @@
+rest/PetWebService.class
+entity/Pet.class
+test/TestPet.class
+entity/Pet_.class
+entity/Owner_.class
+Json/JSONConverter.class
+facade/PetFacade.class
+entity/Event_.class
+entity/Event.class
+entity/Owner.class
+rest/ApplicationConfig.class
+control/Structure.class

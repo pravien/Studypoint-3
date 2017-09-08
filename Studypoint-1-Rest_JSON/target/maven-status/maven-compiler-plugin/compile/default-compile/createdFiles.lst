@@ -1,0 +1,3 @@
+generator/Generator.class
+rest/ApplicationConfig.class
+rest/DataRestService.class

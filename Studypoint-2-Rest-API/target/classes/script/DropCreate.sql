@@ -1,0 +1,3 @@
+DROP DATABASE PetHospital;
+CREATE DATABASE PetHospital;
+
